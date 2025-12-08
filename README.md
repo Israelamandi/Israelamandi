@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=israelamandi&style=flat-square&color=blue" alt=""/>
+</div>
+
 # Hi, I'm Israel Amandi 👋
 
 **GitHub Professional Services - EMEA**
@@ -24,6 +28,12 @@ Welcome to my technical portfolio! As an advocate for open collaboration, I’ve
 - Foster innovation and efficient software delivery across organizations
 - Empower global teams through GitHub’s platform
 - Champion best practices in CI/CD, automation, and workflow design
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=israelamandi&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ## 🤝 Let’s Connect!
 Always open to collaboration, mentorship, and sharing knowledge. Let’s build something extraordinary together!
